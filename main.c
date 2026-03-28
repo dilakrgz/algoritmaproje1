@@ -6,7 +6,6 @@ struct Personel {
     char sicil[50];
     char zamanStr[10];
     char islem;
-
 };
 //fonksiyon tanımlanması
 int saatDakikayaCevir(char *zaman) {
